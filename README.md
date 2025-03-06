@@ -7,6 +7,7 @@
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
 - **AI & Deep Learning:** NLP, Computer Vision, Reinforcement Learning
+- **Deployment Tools:** Streamlit
 
 ## 🌱 Currently Learning
 - Advanced Deep Learning Techniques
