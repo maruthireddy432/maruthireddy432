@@ -19,7 +19,8 @@
 - Mentor aspiring data scientists and ML engineers
 
 ## 💬 Connect with Me
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/maruthireddy432/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/maruthireddy432/)
+- **Gmail:** [Email](maruthireddy432@gmail.com)
 
 Let's collaborate and build something amazing! 🚀
 
